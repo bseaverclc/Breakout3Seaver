@@ -45,7 +45,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate{
         
         createBlocks()
         createBall()
-        score.text = "Score: 0"
+        score.text = "Score: change"
         score.fontColor = UIColor.blue
         score.position = CGPoint(x: 200, y: 200)
         score.fontSize = 30
