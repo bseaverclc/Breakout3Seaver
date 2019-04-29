@@ -58,7 +58,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate{
     
  func seaverFunction()
  {
-    
+    }
     func vetteFunc(){
         
     }
