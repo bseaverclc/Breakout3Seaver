@@ -55,6 +55,10 @@ class GameScene: SKScene, SKPhysicsContactDelegate{
         addChild(score)
        
         }
+    
+    func vetteFunc(){
+        
+    }
         
         func createBlocks()
         {
