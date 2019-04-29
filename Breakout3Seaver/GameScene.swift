@@ -43,7 +43,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate{
         physicsWorld.gravity = CGVector.zero
         
         
-        createBlocks()
+        
         createBall()
         score.text = "Score: change"
         score.fontColor = UIColor.blue
