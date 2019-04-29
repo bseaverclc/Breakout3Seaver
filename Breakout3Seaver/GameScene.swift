@@ -55,6 +55,11 @@ class GameScene: SKScene, SKPhysicsContactDelegate{
         addChild(score)
        
         }
+    
+ func seaverFunction()
+ {
+    
+    }
         
         func createBlocks()
         {
